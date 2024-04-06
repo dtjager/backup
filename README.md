@@ -5,11 +5,11 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 
 ToDo:
-- Edit macros for knomi/status LEDs
+- ~~Edit macros for knomi/status LEDs~~
 - SSD boot
 - cable management
-- skirt lighting
-- chamber lighting
+- ~~skirt lighting~~
+- ~~chamber lighting~~
 - chamber thermistor
-- camera mount
-- panels
+- ~~camera mount~~
+- ~~panels~~
