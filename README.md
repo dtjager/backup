@@ -10,6 +10,8 @@ ToDo:
 - cable management
 - ~~skirt lighting~~
 - ~~chamber lighting~~
-- chamber thermistor
+- ~~chamber thermistor~~
 - ~~camera mount~~
 - ~~panels~~
+- Timelapse setup
+- bottom panel insulation?
